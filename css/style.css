@@ -1168,9 +1168,9 @@ input[type="text"] {
 }
 
 .btn-warning {
-  background: #00B2FF;
+  background: #D383D7;
   color: #fff;
-  border: 2px solid #00B2FF;
+  border: 2px solid #D383D7;
 }
 .btn-warning:hover, .btn-warning:focus, .btn-warning:active {
   background: #D383D7 !important;
