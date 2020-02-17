@@ -7,7 +7,7 @@
 }
 /* =======================================================
 *
-* 	Template Style  #4d4d4d #fff
+* 	Template Style 
 *
 * ======================================================= */
 body {
@@ -15,8 +15,8 @@ body {
   font-weight: 400;
   font-size: 16px;
   line-height: 1.7;
-  color: #1be700;  
-  background: rgb(248, 10, 10);
+  color: #4d4d4d;
+  background: #fff;
 }
 
 #page {
@@ -47,13 +47,13 @@ body {
 }
 
 a {
-  color: #00C1FF;
+  color: #FF9000;
   -webkit-transition: 0.5s;
   -o-transition: 0.5s;
   transition: 0.5s;
 }
 a:hover, a:active, a:focus {
-  color: #00C1FF;
+  color: #FF9000;
   outline: none;
   text-decoration: none;
 }
@@ -71,17 +71,17 @@ h1, h2, h3, h4, h5, h6, figure {
 
 ::-webkit-selection {
   color: #fff;
-  background: #00C1FF;
+  background: #FF9000;
 }
 
 ::-moz-selection {
   color: #fff;
-  background: #00C1FF;
+  background: #FF9000;
 }
 
 ::selection {
   color: #fff;
-  background: #00C1FF;
+  background: #FF9000;
 }
 
 #fh5co-header,
@@ -100,7 +100,7 @@ h1, h2, h3, h4, h5, h6, figure {
   bottom: 0;
   left: 0;
   right: 0;
-  background: rgba(240, 8, 8, 0.37);
+  background: rgba(255, 144, 0, 0.9);
 }
 #fh5co-header .display-t,
 .fh5co-cover .display-t {
@@ -222,7 +222,7 @@ h1, h2, h3, h4, h5, h6, figure {
 }
 
 #fh5co-features {
-  background: #00C1FF;
+  background: #FF9000;
 }
 #fh5co-features h2 {
   color: #fff;
@@ -257,7 +257,7 @@ h1, h2, h3, h4, h5, h6, figure {
   display: table-cell;
   vertical-align: middle;
   height: 100px;
-  color: #00C1FF !important;
+  color: #FF9000 !important;
 }
 #fh5co-features .feature-left .feature-copy {
   width: 100%;
@@ -308,7 +308,7 @@ h1, h2, h3, h4, h5, h6, figure {
 
 .fh5co-bg-dark {
   background: #2F3C4F;
-  background: #00C1FF;
+  background: #FF9000;
 }
 .fh5co-bg-dark .fh5co-heading h2 {
   color: #fff !important;
@@ -365,7 +365,7 @@ h1, h2, h3, h4, h5, h6, figure {
   display: inline-block;
   zoom: 1;
   *display: inline;
-  color: #00C1FF;
+  color: #FF9000;
   padding-left: 10px;
   padding-right: 10px;
 }
@@ -402,7 +402,7 @@ h1, h2, h3, h4, h5, h6, figure {
   font-size: 20px;
 }
 #fh5co-about .fh5co-social-icons li a:hover {
-  background: #00C1FF;
+  background: #FF9000;
 }
 
 .fh5co-heading {
@@ -532,7 +532,7 @@ h1, h2, h3, h4, h5, h6, figure {
   top: 40px;
   left: 50%;
   margin-left: -21px;
-  background-color: #00C1FF;
+  background-color: #FF9000;
   z-index: 100;
   display: table;
   -webkit-border-radius: 50%;
@@ -801,7 +801,7 @@ h1, h2, h3, h4, h5, h6, figure {
   height: 54px;
   border: none !important;
   background: #fff;
-  color: #00C1FF;
+  color: #FF9000;
   font-size: 16px;
   text-transform: uppercase;
   font-weight: 400;
@@ -1111,21 +1111,21 @@ input[type="text"] {
 }
 
 .btn-primary {
-  background: #00C1FF;
+  background: #FF9000;
   color: #fff;
-  border: 2px solid #00C1FF;
+  border: 2px solid #FF9000;
 }
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
-  background: rgba(0, 191, 255, 0.932) !important;
-  border-color: rgba(0, 191, 255, 0.932) !important;
+  background: #ff9b1a !important;
+  border-color: #ff9b1a !important;
 }
 .btn-primary.btn-outline {
   background: transparent;
-  color: #00C1FF;
-  border: 2px solid #00C1FF;
+  color: #FF9000;
+  border: 2px solid #FF9000;
 }
 .btn-primary.btn-outline:hover, .btn-primary.btn-outline:focus, .btn-primary.btn-outline:active {
-  background: #00C1FF;
+  background: #FF9000;
   color: #fff;
 }
 
@@ -1168,21 +1168,21 @@ input[type="text"] {
 }
 
 .btn-warning {
-  background: #D383D7;
+  background: #f0ad4e;
   color: #fff;
-  border: 2px solid #D383D7;
+  border: 2px solid #f0ad4e;
 }
 .btn-warning:hover, .btn-warning:focus, .btn-warning:active {
-  background: #D383D7 !important;
-  border-color: #D383D7 !important;
+  background: #eea236 !important;
+  border-color: #eea236 !important;
 }
 .btn-warning.btn-outline {
   background: transparent;
-  color: #D383D7;
-  border: 2px solid #D383D7;
+  color: #f0ad4e;
+  border: 2px solid #f0ad4e;
 }
 .btn-warning.btn-outline:hover, .btn-warning.btn-outline:focus, .btn-warning.btn-outline:active {
-  background: #D383D7;
+  background: #f0ad4e;
   color: #fff;
 }
 
@@ -1255,7 +1255,7 @@ input[type="text"] {
 .form-control:active, .form-control:focus {
   outline: none;
   box-shadow: none;
-  border-color: #00C1FF;
+  border-color: #FF9000;
 }
 
 .row-pb-md {
