@@ -1116,8 +1116,8 @@ input[type="text"] {
   border: 2px solid #00C1FF;
 }
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
-  background: #ff9b1a !important;
-  border-color: #ff9b1a !important;
+  background: rgba(0, 191, 255, 0.932) !important;
+  border-color: rgba(0, 191, 255, 0.932) !important;
 }
 .btn-primary.btn-outline {
   background: transparent;
@@ -1168,21 +1168,21 @@ input[type="text"] {
 }
 
 .btn-warning {
-  background: #f0ad4e;
+  background: #00B2FF;
   color: #fff;
-  border: 2px solid #f0ad4e;
+  border: 2px solid #00B2FF;
 }
 .btn-warning:hover, .btn-warning:focus, .btn-warning:active {
-  background: #eea236 !important;
-  border-color: #eea236 !important;
+  background: #00B2FF !important;
+  border-color: #00B2FF !important;
 }
 .btn-warning.btn-outline {
   background: transparent;
-  color: #f0ad4e;
-  border: 2px solid #f0ad4e;
+  color: #00B2FF;
+  border: 2px solid #00B2FF;
 }
 .btn-warning.btn-outline:hover, .btn-warning.btn-outline:focus, .btn-warning.btn-outline:active {
-  background: #f0ad4e;
+  background: #00B2FF;
   color: #fff;
 }
 
