@@ -1173,16 +1173,16 @@ input[type="text"] {
   border: 2px solid #00B2FF;
 }
 .btn-warning:hover, .btn-warning:focus, .btn-warning:active {
-  background: #00B2FF !important;
-  border-color: #00B2FF !important;
+  background: #D383D7 !important;
+  border-color: #D383D7 !important;
 }
 .btn-warning.btn-outline {
   background: transparent;
-  color: #00B2FF;
-  border: 2px solid #00B2FF;
+  color: #D383D7;
+  border: 2px solid #D383D7;
 }
 .btn-warning.btn-outline:hover, .btn-warning.btn-outline:focus, .btn-warning.btn-outline:active {
-  background: #00B2FF;
+  background: #D383D7;
   color: #fff;
 }
 
